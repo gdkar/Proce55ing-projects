@@ -1,0 +1,9 @@
+this is a basic WASD/arrows flight sim implemented in Processing and compiled to a java applet. download the folder, open index.html in a processing java compatible browser.
+
+controls are WASD for engine+rudder, arrows for stick, space is fire, enter is restart.
+
+E and Q scroll through available targets, giving target direction information for when that's useful. 
+
+N toggles wireframe ground. M changes between camera views.
+
+terrain is random, but of infinite extent [finite portion shown at any given time]
